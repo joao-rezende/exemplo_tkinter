@@ -1,1 +1,2 @@
-# Exemplo tkinter \n Aplicação com a finalidade de entender mais do Tkinter
+# Exemplo tkinter 
+Aplicação com a finalidade de entender mais do Tkinter
